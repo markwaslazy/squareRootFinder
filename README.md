@@ -1,2 +1,2 @@
 # squareRootFinder
-It's already 12am and I am about to sleep tonight
+This uses some sort of brute force algorithm to find the corresponding square root equivalent of the input.
